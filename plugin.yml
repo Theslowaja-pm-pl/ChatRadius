@@ -1,0 +1,6 @@
+name: ChatRadius
+author: Theslowaja
+main: Theslowaja\ChatRadius\Main
+src-namespace-prefix: Theslowaja\ChatRadius
+api: 5.0.0
+version: 1.0
